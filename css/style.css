@@ -1,0 +1,50 @@
+.container{
+    width: 60%;
+}
+.carousel-section{
+    margin-top: 9%;
+}
+h3{
+    color: #FF136F;
+    font-size: 40px;
+}
+.categories-section{
+    margin-top: 10%;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.categories img{
+    height: 100px;
+    border-radius: 1em;
+}
+.panda-slide{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.panda-slide img{
+    border-radius: 1em;
+}
+button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-orchid{
+    background-color: orchid;
+}
+.bg-blue{
+    background-color: blue;
+}
+.subscribe{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.subscribe button{
+    display: block;
+}
